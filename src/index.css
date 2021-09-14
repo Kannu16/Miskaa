@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.hero-container{
+  width: 90%;
+  margin: 50px auto;
+}
+.hero-container h1{
+ text-align: center;
+ text-transform: uppercase;
+}
+
+.hero-container .information-heading-container{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 20px 0;
+}
+.hero-container .information-heading-container .left{
+  display: flex;
+
+}
+.hero-container .information-heading-container .left select {
+  border: none;
+  padding: 5px 10px;
+  outline: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 0 0 0 7px;
+  background: #ffcc00;
+  text-transform: uppercase;
+}
+
+.hero-container .information-heading-container .right button {
+  border: none;
+  padding: 5px 10px;
+  outline: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-weight: 100;
+  cursor: pointer;
+  background: #ffcc00;
+}
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  color: #000000;
+  margin: 30px 0;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffcc00;
+}
+.country-flag{
+  width: 50px;
+  height: 30px;
+}
+
