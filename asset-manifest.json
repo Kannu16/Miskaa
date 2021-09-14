@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Miskaa/static/css/main.ad40c805.chunk.css",
+    "main.js": "/Miskaa/static/js/main.7c82c43f.chunk.js",
+    "main.js.map": "/Miskaa/static/js/main.7c82c43f.chunk.js.map",
+    "runtime-main.js": "/Miskaa/static/js/runtime-main.5bf2443b.js",
+    "runtime-main.js.map": "/Miskaa/static/js/runtime-main.5bf2443b.js.map",
+    "static/js/2.ba932d58.chunk.js": "/Miskaa/static/js/2.ba932d58.chunk.js",
+    "static/js/2.ba932d58.chunk.js.map": "/Miskaa/static/js/2.ba932d58.chunk.js.map",
+    "index.html": "/Miskaa/index.html",
+    "static/css/main.ad40c805.chunk.css.map": "/Miskaa/static/css/main.ad40c805.chunk.css.map",
+    "static/js/2.ba932d58.chunk.js.LICENSE.txt": "/Miskaa/static/js/2.ba932d58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf2443b.js",
+    "static/js/2.ba932d58.chunk.js",
+    "static/css/main.ad40c805.chunk.css",
+    "static/js/main.7c82c43f.chunk.js"
+  ]
+}
